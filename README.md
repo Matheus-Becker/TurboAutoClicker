@@ -16,6 +16,7 @@ O **TurboClicker** é uma ferramenta escrita em **C++** que permite automatizar 
 
 ## 🗂️ Estrutura do Projeto
 
+```text
 TurboClicker/
 ├── autoclicker.h          # Classe principal do autoclicker
 ├── autoclicker.cpp        # Implementação do autoclicker
@@ -23,6 +24,7 @@ TurboClicker/
 ├── input_hook.cpp        # Implementação dos hooks
 ├── main.cpp              # Ponto de entrada (WinMain + ImGui)
 └── README.md             # Este arquivo
+```
 
 ---
 
